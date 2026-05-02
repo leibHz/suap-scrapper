@@ -18,7 +18,7 @@ Esta API atua como um wrapper direto do SUAP. Todas as chamadas para os recursos
 }
 ```
 
-> **Aviso de Segurança:** Como a API exige as senhas dos alunos diretamente a cada requisição, as chamadas com destino a esta API deverão ocorrer exclusivamente sobre HTTPS/TLS (quando em produção) ou por trás de um túnel fechado.
+> **Aviso de Segurança:** Como a API exige as senhas dos alunos diretamente a cada requisição, as chamadas com destino a esta API deverão ocorrer exclusivamente sobre HTTPS/TLS
 
 ## Quick Start
 
